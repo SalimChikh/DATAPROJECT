@@ -1,0 +1,13 @@
+In this project, two problems have been addressed:
+- first Problem :
+measure the effectiveness of a marketing campaign to get the client to make a fixed-term deposit in the entity, in this way we can predict whether it will be effective or not.
+And this problem has been solved:
+* Segmenting clients with the k-mean algorithm. 
+* Elaborating the random forest algorithm for the prediction of whether a client will enter a fixed term deposit after our marketing campaign or not
+* Proposing solutions to make the next marketing campaign more effective.
+The solution for this problem has been a mix between python and Knime 
+
+- Second Problem : 
+Feasibility for granting a personal loan, : 
+The complexity of this problem has been to clean the data, there were many missing values.
+The solution for this problem has been a mix between python and Knime.
