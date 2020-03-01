@@ -1,6 +1,6 @@
 In this project, two problems have been addressed:
 - first Problem :
-measure the effectiveness of a marketing campaign to get the client to make a fixed-term deposit in the entity, in this way we can predict whether it will be effective or not.
+#measure the effectiveness of a marketing campaign to get the client to make a fixed-term deposit in the entity, in this way we can predict whether it will be effective or not.
 And this problem has been solved:
 * Segmenting clients with the k-mean algorithm. 
 * Elaborating the random forest algorithm for the prediction of whether a client will enter a fixed term deposit after our marketing campaign or not
